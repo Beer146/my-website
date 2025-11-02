@@ -1,4 +1,4 @@
-Website Link: https://github.com/Beer146/my-website
+Website Link: https://beer146.github.io/my-website/projects.html
 
 Styling & Customizations:
 1. Used Google Font "Poppins" for modern typography.
